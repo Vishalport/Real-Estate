@@ -1,0 +1,43 @@
+{
+  "port": 8521,
+  "hostAddress": "http://localhost:8521/",
+  "databaseHost": "127.0.0.1",
+  "databasePort": "27017",
+  "databaseName": "realEstate-org",
+  "jwtsecret": "nodejwt",
+  "jwtresetsecret": "nodejwt",
+  "nodemailer": {
+    "service": "gmail",
+    "email": "",
+    "password": ""
+  },
+  "jwtOptions": {
+    "expiresIn": "24h"
+  },
+  "swaggerDefinition": {
+    "info": {
+      "title": "[ Welcome to Reat-Estate Server side API at Moondive ]",
+      "version": "2.0",
+      "description": "Real Estate API Docs"
+    },
+    "basePath": "/api/v1",
+    "securityDefinitions": {
+      "tokenauth": {
+        "type": "apiKey",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "AWS": {
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": "",
+    "smsSecret": ""
+  },
+  "cloudinary": {
+    "cloud_name": "dvnt2lje3",
+    "api_key": "897651735255681",
+    "api_secret": "4HnbOnQViW4BtgWYsrgRekEMTGs"
+  }
+}
