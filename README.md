@@ -1,8 +1,7 @@
 # Real-Estate
-> Beginners guide to build full stack JavaScript app using MERN (MongoDB Express React NodeJs) stack &amp; AWS from scratch.
-
-
-
+> intermittent to Advance guide to build full stack JavaScript app using MERN (MongoDB Express React NodeJs) stack &amp; AWS from scratch.
+>>>> important points of the project 
+> 
 >> * Complete login registration system with email confirmation, forgot and reset passwords
 >> * JWT based authentication, authorization with refresh token
 >> * AWS services such as IAM (Identity and access management) S3 (Simple storage service) and SES (Simple email service)
