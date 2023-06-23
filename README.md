@@ -1,4 +1,4 @@
-# Real-Estate  MERN STACK 
+# Real-Estate WEB APPLICATION  [ MERN STACK ] 
 > intermittent to Advance guide to build full stack JavaScript app using MERN (MongoDB Express React NodeJs) stack &amp; AWS from scratch.
 >>>> important points of the project 
 > 
