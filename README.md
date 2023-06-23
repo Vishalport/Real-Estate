@@ -3,7 +3,7 @@ Beginners guide to build full stack JavaScript app using MERN (MongoDB Express R
 
 
 
-Complete login registration system with email confirmation, forgot and reset passwords
+** Complete login registration system with email confirmation, forgot and reset passwords
 
 JWT based authentication, authorization with refresh token
 
